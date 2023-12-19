@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Compadre77
-- 👀 I’m interested in Java, JavaScript, Typescript, React and in learning much more!
-- 🌱 I’m currently learning Typescript and React. #struggle
-- 💞️ I’m looking to collaborate on many projects as a freelancer
+- 👀 I'm a computer science student at FHNW in Switzerland.
+- 🌱 I'm currently focusing on Kotlin and Jetpack Compose
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me d.dacruz@outlook.com
 
 <!---
